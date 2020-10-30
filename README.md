@@ -1,7 +1,7 @@
 # 👨‍💻 Personal Portfolio
 
 ### *Personal Portfolio built using ReactJs and Animation libraries, hope you like it. Tweak it and use it !!*
-:link: http://junaid-qureshi.surge.sh/
+:link: https://ansar-ali.netlify.app/
 
 
 
