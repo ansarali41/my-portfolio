@@ -1,26 +1,15 @@
-# 👨‍💻 Personal DevFolio
+# 👨‍💻 Personal Portfolio
 
 ### *Personal Portfolio built using ReactJs and Animation libraries, hope you like it. Tweak it and use it !!*
 :link: http://junaid-qureshi.surge.sh/
 
-### Demo Video
-:link: https://youtu.be/Fpl3JJ-g7Bc
 
 
 ## Images 
-<img src='./project_images/portfolio.png/' />
+<img src='https://i.ibb.co/GVbCpJ8/image.png' />
 
 
-## Mobile Responsive
-<img src='./project_images/mobile.png/' />
-
-
-## Run Locally 
-
-- Run this command `git clone https://github.com/developer-junaid/Developerfolio.git`
-- You are now in the dev environment and you can play around 
-
-## Tech Stack
+## Technologies used:
 
 - HTML5
 - CSS3
