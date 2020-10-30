@@ -99,7 +99,7 @@ const Nav = () => {
             offset={0}
             duration={500}
           >
-            Portfolio
+            Projects
           </Link>
         </li>
 
@@ -114,7 +114,7 @@ const Nav = () => {
             offset={0}
             duration={500}
           >
-            Achievements
+            Blogs
           </Link>
         </li>
 

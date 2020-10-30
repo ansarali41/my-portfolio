@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import "./../index.css";
 import myPhoto from "./../images/perfect.jpg";
 import { motion, AnimatePresence } from "framer-motion";
-import { animateScroll as scroll } from "react-scroll";
 
 const contentVariants = {
   initial: {
@@ -98,7 +97,7 @@ const Home = () => {
                 animate="animate"
                 initial="initial"
               >
-                Web UI/UX Developer | React Developer
+                Front-End Web Developer | MERN Stack Developer
               </motion.h2>
             )}
           </AnimatePresence>
@@ -118,10 +117,14 @@ const Home = () => {
           </AnimatePresence>
         </div>
         {/* // */}
-
-        <button className="button" onClick={() => scroll.scrollToBottom()}>
-          Contact Me
-        </button>
+        <a
+          rel="noopener noreferrer"
+          target="_blank"
+          href="https://drive.google.com/file/d/1n3bcpbZ7fOSUAlMovKgULt8RvY6f3J-3/view?usp=sharing"
+          className="button-link"
+        >
+          <button className="button">My resume</button>
+        </a>
       </motion.div>
 
       <motion.div

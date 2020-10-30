@@ -24,7 +24,7 @@ const Contact = () => {
             <span>Email</span>
           </div>
           <div className="contact-links">
-            <span>qjunaid623@gmail.com</span>
+            <span>ansar.ict14@gmail.com</span>
           </div>
         </div>
 
@@ -41,43 +41,43 @@ const Contact = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://github.com/developer-junaid/"
+              href="https://github.com/ansarali41"
             >
               <i className="fab fa-github" title="github" id="github"></i>
             </a>
 
             {/* facebook */}
-            <a
+            {/* <a
               rel="noopener noreferrer"
               target="_blank"
               href="https://www.facebook.com/profile.php?id=100041078220896"
             >
               <i className="fab fa-facebook" title="facebook" id="facebook"></i>
-            </a>
+            </a> */}
 
             {/* linkedIn */}
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://www.linkedin.com/in/developer-junaid/"
+              href="https://www.linkedin.com/in/ansar14/"
             >
               <i className="fab fa-linkedin" title="linkedin" id="linkedin"></i>
             </a>
 
             {/* Twitter */}
-            <a
+            {/* <a
               rel="noopener noreferrer"
               target="_blank"
               href="https://twitter.com/Junaid084869/"
             >
               <i className="fab fa-twitter" title="twitter" id="twitter"></i>
-            </a>
+            </a> */}
 
             {/* Instagram */}
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://www.instagram.com/developerjunaid/"
+              href="https://www.instagram.com/im__ansar/?hl=en"
             >
               <i
                 className="fab fa-instagram"
@@ -97,7 +97,7 @@ const Contact = () => {
             <span>Phone</span>
           </div>
           <div className="contact-links">
-            <span>(+92) 313 3084869 </span>
+            <span>+8801750-392947 </span>
           </div>
         </div>
       </div>
