@@ -69,7 +69,7 @@ const Home = () => {
         initial="initial"
         animate="animate"
       >
-        <h4 className="welcome-content">WELCOME TO MY WORLD</h4>
+        <h4 className="welcome-content" style={{ color: 'white' }}>WELCOME TO MY WORLD</h4>
         <br />
         <h1 className="main-content">
           Hi, I’m Ansar
@@ -96,6 +96,7 @@ const Home = () => {
                 exit="exit"
                 animate="animate"
                 initial="initial"
+                style={{ color: 'white' }}
               >
                 Front-End Web Developer | MERN Stack Developer
               </motion.h2>
@@ -110,6 +111,7 @@ const Home = () => {
                 exit="exit"
                 animate="animate"
                 initial="initial"
+                style={{ color: 'white' }}
               >
                 Open Source Contributor | AI Enthusiast
               </motion.h2>
