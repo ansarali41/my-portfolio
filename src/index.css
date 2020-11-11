@@ -442,13 +442,14 @@ body {
 
 /* Images */
 #reactBasic {
-  background-image: url("./images/certificates/ReactBasic\(HackerRank\).png");
+  background-image: url("https://i.ibb.co/VVDcGcs/image.png");
   background-size: cover;
   background-repeat: no-repeat;
+
 }
 
 #html5 {
-  background-image: url("./images/certificates/html5.png");
+  background-image: url("https://i.ibb.co/TYC6YtX/image.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -460,7 +461,7 @@ body {
 }
 
 #ciscoPython {
-  background-image: url("./images/certificates/PCAP\ \(Certified\ Associate\ in\ Python\ Programming\).png");
+  background-image: url("https://i.ibb.co/yg3T4Gd/image.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -837,4 +838,36 @@ body {
   .button {
     font-size: 0.8rem;
   }
+}
+.see-more-button {
+  /* background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer; */
+
+  padding: 10px 30px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+
+}
+.see-more-button:hover { 
+    background-color: #3e8e41 
+}
+
+.see-more-button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
 }

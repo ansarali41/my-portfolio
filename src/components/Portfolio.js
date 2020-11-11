@@ -124,7 +124,7 @@ const Portfolio = () => {
           </a>
           <div className="project-links">
             <div className="text">
-              <h3>Quiz Application</h3>
+              <h3>Travel Guru</h3>
             </div>
             <div className="icons">
               <a

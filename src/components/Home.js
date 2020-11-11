@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./../index.css";
 import myPhoto from "./../images/perfect.jpg";
 import { motion, AnimatePresence } from "framer-motion";
+import resume from "./../files/resume.pdf"
 
 const contentVariants = {
   initial: {
@@ -98,7 +99,7 @@ const Home = () => {
                 initial="initial"
                 style={{ color: 'white' }}
               >
-                Front-End Web Developer | MERN Stack Developer
+              Web Developer | MERN Stack Developer
               </motion.h2>
             )}
           </AnimatePresence>
@@ -113,7 +114,7 @@ const Home = () => {
                 initial="initial"
                 style={{ color: 'white' }}
               >
-                Open Source Contributor | AI Enthusiast
+                Learner | Hard worker
               </motion.h2>
             )}
           </AnimatePresence>
@@ -122,11 +123,12 @@ const Home = () => {
         <a
           rel="noopener noreferrer"
           target="_blank"
-          href="https://drive.google.com/file/d/1n3bcpbZ7fOSUAlMovKgULt8RvY6f3J-3/view?usp=sharing"
           className="button-link"
-        >
+          href={resume} download="resume-of-ansar-ali">
           <button className="button">My resume</button>
         </a>
+
+
       </motion.div>
 
       <motion.div
